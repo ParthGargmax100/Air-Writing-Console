@@ -47,4 +47,4 @@ This project uses an MPU6050 (accelerometer + gyroscope) with Arduino to capture
 
 ---
 
-## Project Structure
+
